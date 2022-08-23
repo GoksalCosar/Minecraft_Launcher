@@ -17,14 +17,15 @@ Ticari Minecraft Launcher Projesi(Commercial Minecraft Launcher Project)
   
 ![SS5](https://user-images.githubusercontent.com/98962680/186183050-7e4744a5-b92c-4df1-8d39-62835d49cf90.PNG)
 
-Launcher promo video
+<h2>Launcher promo video<h2/>
 
 
-https://user-images.githubusercontent.com/98962680/186183232-2629c6d7-e579-42dc-8234-9377e5b2ea68.mp4
+https://user-images.githubusercontent.com/98962680/186185528-8d13d559-072e-4a3f-9291-0f0608ef1643.mp4
 
-
-
-<p>
+  
 Kaynkalar kodlar malesef paylaşamıyorum. Çünkü proje ticari bir proje olduğu için kodları paylaşamam.
+  
 (Unfortunately, I can't share the sources codes. Because the project is a commercial project, I cannot share the codes.)
-  </p>
+<br/>
+  <br/>
+  <br/>
