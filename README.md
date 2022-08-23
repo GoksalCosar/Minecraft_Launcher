@@ -1,31 +1,29 @@
 # Minecraft_Launcher
-Ticari Minecraft Launcher Projesi(Commercial Minecraft Launcher Project)
+## Ticari Minecraft Launcher Projesi(Commercial Minecraft Launcher Project)
 
-<h2>Loading Page<h2/>
+**Loading Page**
   
 ![SS1](https://user-images.githubusercontent.com/98962680/186182712-811a7a6c-6820-4577-830d-dd77ed4f5797.PNG)
 
-<h2>Login Page<h2/>
+**Login Page**
   
 ![SS2](https://user-images.githubusercontent.com/98962680/186182913-d756a237-2e71-4ea0-bf1e-b79e17e132d1.PNG)
 
-<h2>Main Page<h2/>
+**Main Page**
   
 ![SS4](https://user-images.githubusercontent.com/98962680/186182981-e7de237e-b856-4b63-8480-60240e428588.PNG)
 
-<h2>Main Page and Settings Page<h2/>
+**Main Page and Settings Page**
   
 ![SS5](https://user-images.githubusercontent.com/98962680/186183050-7e4744a5-b92c-4df1-8d39-62835d49cf90.PNG)
 
-<h2>Launcher promo video<h2/>
+**Launcher promo video**
 
-
-https://user-images.githubusercontent.com/98962680/186185528-8d13d559-072e-4a3f-9291-0f0608ef1643.mp4
+![SS6](https://user-images.githubusercontent.com/98962680/186185528-8d13d559-072e-4a3f-9291-0f0608ef1643.mp4)
 
   
-Kaynkalar kodlar malesef paylaşamıyorum. Çünkü proje ticari bir proje olduğu için kodları paylaşamam.
   
-(Unfortunately, I can't share the sources codes. Because the project is a commercial project, I cannot share the codes.)
-<br/>
-  <br/>
-  <br/>
+**Kaynk kodlar malesef paylaşamıyorum. Çünkü proje ticari bir proje olduğu için kodları paylaşamam.**
+  
+**(Unfortunately, I can't share the sources codes. Because the project is a commercial project, I cannot share the codes.)**
+  
