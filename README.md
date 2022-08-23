@@ -19,7 +19,7 @@
 
 **Launcher promo video**
 
-![https://github.com/GoksalCosar/Minecraft_Launcher/blob/main/SS6.mp4](https://github.com/GoksalCosar/Minecraft_Launcher/blob/main/SS6.mp4)
+https://github.com/GoksalCosar/Minecraft_Launcher/blob/main/SS6.mp4
   
   
 **Kaynk kodlar malesef paylaşamıyorum. Çünkü proje ticari bir proje olduğu için kodları paylaşamam.**
