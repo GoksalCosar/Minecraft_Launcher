@@ -19,7 +19,7 @@
 
 **Launcher promo video**
 
-![SS6](https://user-images.githubusercontent.com/98962680/186185528-8d13d559-072e-4a3f-9291-0f0608ef1643.mp4)
+https://user-images.githubusercontent.com/98962680/186185528-8d13d559-072e-4a3f-9291-0f0608ef1643.mp4
 
   
   
