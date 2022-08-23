@@ -1,6 +1,9 @@
 # Minecraft_Launcher
 ## Ticari Minecraft Launcher Projesi(Commercial Minecraft Launcher Project)
 
+*Proje arka plan(Back-End) olarak C# dilini benimserken, önyüz(Front-End) tarafı olarak da WPF teknolojilerini kullanılarak hazırlanmıştır.*
+*(While the project adopts C# language as the background (Back-End), it has been prepared using WPF technologies as the front-end side.)*
+
 **Loading Page**
   
 ![SS1](https://user-images.githubusercontent.com/98962680/186182712-811a7a6c-6820-4577-830d-dd77ed4f5797.PNG)
