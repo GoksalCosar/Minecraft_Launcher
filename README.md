@@ -19,7 +19,10 @@ Ticari Minecraft Launcher Projesi(Commercial Minecraft Launcher Project)
 
 Launcher promo video
 
+
 https://user-images.githubusercontent.com/98962680/186183232-2629c6d7-e579-42dc-8234-9377e5b2ea68.mp4
+
+
 
 <p>
 Kaynkalar kodlar malesef paylaşamıyorum. Çünkü proje ticari bir proje olduğu için kodları paylaşamam.
