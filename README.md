@@ -19,8 +19,7 @@
 
 **Launcher promo video**
 
-https://user-images.githubusercontent.com/98962680/186185528-8d13d559-072e-4a3f-9291-0f0608ef1643.mp4
-
+![SS6](https://user-images.githubusercontent.com/98962680/186194521-ff26597b-dba8-40de-bf6f-6df40ac6f83c.mp4)
   
   
 **Kaynk kodlar malesef paylaşamıyorum. Çünkü proje ticari bir proje olduğu için kodları paylaşamam.**
